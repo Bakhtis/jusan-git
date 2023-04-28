@@ -51,7 +51,7 @@ int main() {
 
 | **Платформа** | **Ссылка** | **Отвечу за** |
 | --------- | ------ | --------- |
-| Почта     | [Ссылка](https://github.com/Bakhtis/jusan-git) | 24 часа   |
-| LinkedIn  | [Ссылка](https://github.com/Bakhtis/jusan-git) | 3 часа    |
-| WhatsApp  | [Ссылка](https://github.com/Bakhtis/jusan-git) | 30 минут  |
-| Telegram  | [Ссылка](https://github.com/Bakhtis/jusan-git) | 5 минут   |
+| Почта     | [Ссылка](b.shokobay@gmail.com) | 24 часа   |
+| LinkedIn  | [Ссылка](https://www.linkedin.com/in/bakhtiyar-shokobayev-b1730729) | 3 часа    |
+| WhatsApp  | [Ссылка](+77754317443) | 30 минут  |
+| Telegram  | [Ссылка](@Shokobayev) | 5 минут   |
