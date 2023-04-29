@@ -1,6 +1,8 @@
 username.sh выводит моё имя на латинице Bakhtiyar Shokobayev
 # stepik-id-printer (h1)
 
+![Jusan_logo](/image.png)
+
 Это проект для вывода моего персонального идентификатора на *образовательной платформе* `stepik.org`.
 
 
